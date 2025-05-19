@@ -13,6 +13,9 @@ body {
   -------------------------------------------------- */
   
   /* Carousel base class */
+
+  .container-fluid
+
   .carousel {
     margin-bottom: 4rem;
   }
