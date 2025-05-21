@@ -92,3 +92,12 @@ body {
   background-image: color blue
   ;
   }
+
+.video{
+ max-width: 500px;
+ margin: auto;
+ margin-left: 20px;
+ display: block;
+ margin-bottom: 10px;
+  border-radius: 15px;
+}
